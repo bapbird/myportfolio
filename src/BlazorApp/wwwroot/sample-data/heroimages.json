@@ -2,16 +2,16 @@
   {
     "name": "bapsae",
     "src": "long-tailed-tit-6011355_1280.jpg",
-    "alt": "System.out.println('hello world!');"
+    "alt": ""
   },
   {
     "name": "about",
     "src": "bird-8495858_1280.jpg",
-    "alt": "print('hello world')"
+    "alt": ""
   },
   {
     "name": "portfolio",
     "src": "bird-7019798_1280.jpeg",
-    "alt": "puts('hello world');"
+    "alt": ""
   }
 ]
