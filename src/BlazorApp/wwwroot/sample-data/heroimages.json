@@ -1,17 +1,17 @@
 [
   {
-    "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "name": "bapsae",
+    "src": "long-tailed-tit-6011355_1280.jpg",
+    "alt": "System.out.println('hello world!');"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "src": "bird-8495858_1280.jpg",
+    "alt": "print('hello world')"
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "src": "bird-7019798_1280.jpeg",
+    "alt": "puts('hello world');"
   }
 ]
